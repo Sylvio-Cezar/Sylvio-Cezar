@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvio-Cezar&layout=compact&hide_border=true&title_color=6e2ad4&text_color=6e2ad4&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sylvio-Cezar&bg_color=000000&color=6e2ad4&line=6e2ad4&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sylvio-Cezar&bg_color=000000&color=6e2ad4&line=6e2ad4&point=6e2ad4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Tecnologias Principais:
 ![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=0D1117)&nbsp;
