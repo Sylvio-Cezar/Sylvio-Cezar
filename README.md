@@ -18,7 +18,7 @@
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Ionic](https://img.shields.io/badge/Ionic-0D1117?style=for-the-badge&logo=ionic&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Capacitor](https://img.shields.io/badge/Capacitor-0D1117?style=for-the-badge&logo=Capacitor&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Cordova]([https://img.shields.io/badge/Cordova-0D1117?style=for-the-badge&logo=apache-cordova&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Cordova](https://img.shields.io/badge/Cordova-0D1117?style=for-the-badge&logo=apache-cordova&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Ferramentas Utilizadas:
